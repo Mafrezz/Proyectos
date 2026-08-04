@@ -1,0 +1,18 @@
+Desde la carpeta PROYECTOS
+
+git status
+git add .
+git commit -m "Agregar tarea 3 - Nombre de la tarea"
+git push
+
+*ACTUALIZAR UNA TAREA*
+git status
+git add .
+git commit -m "Actualizar tarea 3"
+git push
+
+*ELIMINAR UN ARCHIVO*
+Bórralo desde el Explorador de Windows y luego ejecuta:
+git add .
+git commit -m "Eliminar archivo de tarea 3"
+git push
