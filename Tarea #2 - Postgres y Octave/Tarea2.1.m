@@ -32,4 +32,11 @@ end_try_catch
 
 %OPERACIONES BÁSICAS CON MATRICES
 
-H =
+M = [1,2,7; 4,5,11;0,2,0.3]
+N = [0,1,2; 8,10,12; 1,2,3]
+M + N
+M - N
+M * N
+cross(M,N) %M X N
+dot(M,N)
+M' %Transpuesta
