@@ -1,5 +1,5 @@
-Nombre: Naomi Rodas
-Peso: 57.00 kg
-Altura: 1.59 m
-IMC: 22.55
+Nombre: Fernanda Alvarez
+Peso: 55.00 kg
+Altura: 1.60 m
+IMC: 21.48
 Categoría: Peso normal

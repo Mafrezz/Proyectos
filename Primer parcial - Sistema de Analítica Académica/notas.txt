@@ -1,0 +1,90 @@
+========================================
+REGISTRO ACADEMICO
+========================================
+Carnet: 202001537
+Nombre: Fernanda Alvarez
+Tareas: 20.00
+Parcial 1: 12.00
+Parcial 2: 14.00
+Parcial 3: 10.00
+Examen Final: 15.00
+Nota exacta: 71.00
+Nota final: 71
+Estado: Aprobado
+========================================
+
+========================================
+REGISTRO ACADEMICO
+========================================
+Carnet: 201934587
+Nombre: Juan Perez
+Tareas: 15.00
+Parcial 1: 10.00
+Parcial 2: 10.00
+Parcial 3: 15.00
+Examen Final: 16.00
+Nota exacta: 66.00
+Nota final: 66
+Estado: Aprobado
+========================================
+
+========================================
+REGISTRO ACADEMICO
+========================================
+Carnet: 201623546
+Nombre: Luis Gomez
+Tareas: 13.00
+Parcial 1: 15.00
+Parcial 2: 10.00
+Parcial 3: 14.00
+Examen Final: 20.00
+Nota exacta: 72.00
+Nota final: 72
+Estado: Aprobado
+========================================
+
+========================================
+REGISTRO ACADEMICO
+========================================
+Carnet: 201456321
+Nombre: Ana Lopez
+Tareas: 10.00
+Parcial 1: 8.00
+Parcial 2: 5.00
+Parcial 3: 6.00
+Examen Final: 5.00
+Nota exacta: 34.00
+Nota final: 34
+Estado: Reprobado
+========================================
+
+========================================
+REGISTRO ACADEMICO
+========================================
+Carnet: 201825498
+Nombre: Pedro Jimenez
+Tareas: 10.00
+Parcial 1: 5.00
+Parcial 2: 4.00
+Parcial 3: 8.00
+Examen Final: 10.00
+Nota exacta: 37.00
+Nota final: 37
+Estado: Reprobado
+========================================
+
+========================================
+REGISTRO ACADEMICO
+========================================
+Carnet: 201500123
+Nombre: Aron Gonzalez
+Tareas: 16.00
+Parcial 1: 14.00
+Parcial 2: 15.00
+Parcial 3: 13.00
+Examen Final: 19.00
+Nota exacta: 77.00
+Nota final: 77
+Estado: Aprobado
+========================================
+
