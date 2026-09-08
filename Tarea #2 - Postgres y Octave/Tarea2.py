@@ -39,7 +39,7 @@ for fila in cursor.fetchall():
 # DELETE
 cursor.execute("""
 DELETE FROM redes
-WHERE carnet = 202045678;
+WHERE carnet = 20201537;
 """)
 conn.commit()
 

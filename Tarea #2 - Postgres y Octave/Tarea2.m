@@ -8,7 +8,7 @@ conn = pq_connect(setdbopts(...
 'password','mafer123'));
 
 % INSERT
-pq_exec_params(conn,"INSERT INTO redes VALUES ('María',201854321);");
+pq_exec_params(conn,"INSERT INTO redes VALUES ('Sofia Rodriguez',201854321);");
 
 % SELECT
 N = pq_exec_params(conn,"SELECT * FROM redes")
